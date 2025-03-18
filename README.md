@@ -5,7 +5,7 @@ The **Cross Language Code Generation** is a web application built using **Stream
 
 ## 🎯 Features
 ✅ Accepts natural language descriptions of coding tasks.  
-✅ Supports multiple programming languages including Python, JavaScript, Java, C++, C#, Ruby, Go, PHP, Swift, Kotlin, HTML, CSS, and SQL.  
+✅ Supports multiple programming languages including Python, JavaScript, Java, C++, C#, Ruby, Go, PHP, Swift, Kotlin, HTML and SQL.  
 ✅ Uses **Google Generative AI** to generate accurate and efficient code.  
 ✅ Displays generated code with syntax highlighting.  
 ✅ Handles errors gracefully (e.g., missing API key, invalid input).  
