@@ -1,0 +1,13 @@
+prefix=/Users/pradhyumnasg/Developer/Projects/Mini_Pro/sq
+exec_prefix=/Users/pradhyumnasg/Developer/Projects/Mini_Pro/sq
+libdir=/Users/pradhyumnasg/Developer/Projects/Mini_Pro/sq/lib
+sharedlibdir=/Users/pradhyumnasg/Developer/Projects/Mini_Pro/sq/lib
+includedir=/Users/pradhyumnasg/Developer/Projects/Mini_Pro/sq/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
